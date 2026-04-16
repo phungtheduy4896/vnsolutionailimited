@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600'>
+<rect width='900' height='600' fill='#0f172a'/><rect x='70' y='60' width='760' height='480' rx='28' fill='#101a2e' stroke='#38bdf8' stroke-opacity='.20'/>
+<rect x='170' y='180' width='560' height='220' rx='24' fill='#15233a'/><path d='M200 220l250 145 250-145' fill='none' stroke='#8edbff' stroke-width='16' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='175' y='490' fill='#ecf7ff' font-family='Georgia' font-size='42'>Business Contact</text>
+</svg>

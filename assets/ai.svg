@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600'>
+<rect width='900' height='600' fill='#0f172a'/><rect x='70' y='60' width='760' height='480' rx='28' fill='#101a2e' stroke='#8b5cf6' stroke-opacity='.24'/>
+<circle cx='300' cy='250' r='92' fill='#38bdf8' opacity='.16'/><circle cx='520' cy='250' r='72' fill='#8b5cf6' opacity='.16'/><circle cx='650' cy='250' r='52' fill='#22c55e' opacity='.14'/>
+<text x='130' y='500' fill='#ecf7ff' font-family='Georgia' font-size='42'>AI Tools & Workflow Automation</text>
+</svg>
